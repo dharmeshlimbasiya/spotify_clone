@@ -3,8 +3,8 @@ import { Typography, TextField, Button, Container, Box } from "@mui/material";
 
 import MainLayout from "../mainLayout/MainLayout";
 
-const CLIENT_ID = "ac7c85e6e55145efbdbd67e04bb67b37";
-const CLIENT_SECRET = "d9c1a38b14014ceab6032761914fe821";
+// const CLIENT_ID = "id"; //uncomment add past your id
+// const CLIENT_SECRET = "key";
 
 function Search1() {
   const [searchInput, setSearchInput] = useState("");
